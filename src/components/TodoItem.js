@@ -28,7 +28,7 @@ export class TodoItem extends Component {
 }
 
 // PropTypes
-TodoItem.PropTypes = {
+TodoItem.propTypes = {
     todos: PropTypes.object.isRequired,
     markComplete: PropTypes.func.isRequired,
     delTodo: PropTypes.func.isRequired

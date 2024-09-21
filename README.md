@@ -3,7 +3,7 @@ A Simple To-Do List app built with React.js
 
 ### Version
 1.0.0
-
+![alt text](image.png)
 ### Built Using
 - React.js
 - React-Router
